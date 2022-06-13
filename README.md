@@ -10,6 +10,6 @@
   <img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="html5" align="center" />
   <img src = "https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="html5" align="center" />
   <img src = "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="html5" align="center" />
-  <img src = "https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="html5" align="center" />
+  <img src = "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="html5" align="center" />
   <img src = "https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="html5" align="center" />
 </div
